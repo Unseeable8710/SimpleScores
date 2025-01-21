@@ -1,0 +1,31 @@
+{
+  "score": {
+    "metadata": {
+      "title": "Example",
+      "subtitle": "An example score",
+      "lyricist": null,
+      "composer": "Colton Stone",
+      "arranger": null,
+      "initialKey": "C",
+      "initialMode": "Major"
+    },
+    "parts": [
+      {
+        "name": "percussion.pitched.piano",
+        "id": "piano1",
+        "disp": "Piano",
+        "abbr": "Pno.",
+        "key": "initial",
+        "mode": "initial",
+        "staves": "default",
+        "clefs": {
+          "staff1": "default",
+          "staff2": "default"
+        }
+      }
+    ],
+    "data": {
+
+    }
+  }
+}
