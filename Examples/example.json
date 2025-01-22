@@ -6,8 +6,14 @@
       "lyricist": null,
       "composer": "Colton Stone",
       "arranger": null,
-      "initialKey": "C",
-      "initialMode": "Major"
+      "initialKey": "c",
+      "initialMode": "major",
+      "time": "4/4",
+      "tempo": {
+        "beat": "match",
+        "rate": 120
+      },
+      "measures": 2
     },
     "parts": [
       {
@@ -25,7 +31,164 @@
       }
     ],
     "data": {
-
+      "parts": {
+        "0": [
+          {
+            "staff": 1,
+            "data": [
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["c4"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [true, "mf"]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["d4"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["e4"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["f4"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["g4"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["a5"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["b5"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["c5"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              }
+            ]
+          },
+          {
+            "staff": 2,
+            "data": [
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["c3"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["d3"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["e3"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["f3"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["g3"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["a4"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["b4"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              },
+              {
+                "type": "note",
+                "length": 1,
+                "measure": 1,
+                "tones": ["c4"],
+                "ornaments": [false],
+                "articulation": [false],
+                "attachedDynamics": [false]
+              }
+            ]
+          }
+        ]
+      }
     }
   }
 }
