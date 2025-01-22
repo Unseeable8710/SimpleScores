@@ -75,7 +75,7 @@
               {
                 "type": "note",
                 "length": 1,
-                "measure": 1,
+                "measure": 2,
                 "tones": ["g4"],
                 "ornaments": [false],
                 "articulation": [false],
@@ -84,7 +84,7 @@
               {
                 "type": "note",
                 "length": 1,
-                "measure": 1,
+                "measure": 2,
                 "tones": ["a5"],
                 "ornaments": [false],
                 "articulation": [false],
@@ -93,7 +93,7 @@
               {
                 "type": "note",
                 "length": 1,
-                "measure": 1,
+                "measure": 2,
                 "tones": ["b5"],
                 "ornaments": [false],
                 "articulation": [false],
@@ -102,7 +102,7 @@
               {
                 "type": "note",
                 "length": 1,
-                "measure": 1,
+                "measure": 2,
                 "tones": ["c5"],
                 "ornaments": [false],
                 "articulation": [false],
@@ -152,7 +152,7 @@
               {
                 "type": "note",
                 "length": 1,
-                "measure": 1,
+                "measure": 2,
                 "tones": ["g3"],
                 "ornaments": [false],
                 "articulation": [false],
@@ -161,7 +161,7 @@
               {
                 "type": "note",
                 "length": 1,
-                "measure": 1,
+                "measure": 2,
                 "tones": ["a4"],
                 "ornaments": [false],
                 "articulation": [false],
@@ -170,7 +170,7 @@
               {
                 "type": "note",
                 "length": 1,
-                "measure": 1,
+                "measure": 2,
                 "tones": ["b4"],
                 "ornaments": [false],
                 "articulation": [false],
@@ -179,7 +179,7 @@
               {
                 "type": "note",
                 "length": 1,
-                "measure": 1,
+                "measure": 2,
                 "tones": ["c4"],
                 "ornaments": [false],
                 "articulation": [false],
