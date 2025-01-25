@@ -19,7 +19,19 @@
   </parts>
   <data>
     <parts type="inst-data">
-    
+      <partref>
+        <staff pos="1">
+          <staffdata>
+            <note length="1"
+                   />
+          </staffdata>
+        </staff>
+        </staff pos="2">
+          <staffdata>
+
+          </staffdata>
+        </staff>
+      </partref>
     </parts>
   </data>
 </score>
