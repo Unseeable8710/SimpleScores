@@ -1,9 +1,21 @@
 <score>
-  <metadata>
-  
-  </metadata>
+  <metadata title="Example"
+            subtitle="An example score"
+            composer="Colton Stone"
+            initialKey="c"
+            initialMode="major"
+            time="4/4"
+            tempo="match, 120"
+            measures="2" />
   <parts type="inst-meta">
-
+    <part name="percussion.pitched.piano"
+          id="piano1"
+          disp="Piano"
+          abbr="Pno."
+          key="initial"
+          mode="initial"
+          staves="default"
+          clefs="default, default" />
   </parts>
   <data>
     <parts type="inst-data">
