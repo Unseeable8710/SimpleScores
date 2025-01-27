@@ -4,4 +4,3 @@ SimpleScores is a JSON and XML compatible score formatting system that came up w
 # Documentation
 
 ## The basics
-
