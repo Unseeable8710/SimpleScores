@@ -22,80 +22,98 @@
       <partref>
         <staff pos="1">
           <staffdata>
-            <note length="1"
-                  tones="c4"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="true, mf" />
-            <note length="1"
-                  tones="d4"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="e4"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="f4"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="g4"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="a5"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="b5"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
+            <measure pos="1" endbar="single" key="false, default">
+              <note length="1"
+                    tones="c4"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="true, mf" />
+              <note length="1"
+                    tones="d4"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="e4"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="f4"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+            </measure>
+            <measure pos="2" endbar="end" key="false, default">
+              <note length="1"
+                    tones="g4"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="a5"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="b5"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="c5"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+            </measure>
           </staffdata>
         </staff>
         </staff pos="2">
           <staffdata>
-            <note length="1"
-                  tones="c3"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="d3"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="e3"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="f3"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="g3"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="a4"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
-            <note length="1"
-                  tones="b4"
-                  ornaments="false"
-                  articulation="false"
-                  attatchedDynamics="false" />
+            <measure pos="1" endbar="single" key="false, default">
+              <note length="1"
+                    tones="c3"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="d3"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="e3"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="f3"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+            </measure>
+            <measure pos="2" endbar="end" key="false, default">
+              <note length="1"
+                    tones="g3"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="a4"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tones="b4"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+              <note length="1"
+                    tone="c4"
+                    ornaments="false"
+                    articulation="false"
+                    attatchedDynamics="false" />
+            </measure>
           </staffdata>
         </staff>
       </partref>
