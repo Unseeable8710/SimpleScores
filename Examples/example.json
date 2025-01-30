@@ -123,70 +123,88 @@
           {
             "staff": 2,
             "data": [
-              {
-                "type": "note",
-                "length": 1,
-                "tones": ["c3"],
-                "ornaments": [false],
-                "articulation": [false],
-                "attachedDynamics": [false]
-              },
-              {
-                "type": "note",
-                "length": 1,
-                "tones": ["d3"],
-                "ornaments": [false],
-                "articulation": [false],
-                "attachedDynamics": [false]
-              },
-              {
-                "type": "note",
-                "length": 1,
-                "tones": ["e3"],
-                "ornaments": [false],
-                "articulation": [false],
-                "attachedDynamics": [false]
-              },
-              {
-                "type": "note",
-                "length": 1,
-                "tones": ["f3"],
-                "ornaments": [false],
-                "articulation": [false],
-                "attachedDynamics": [false]
-              },
-              {
-                "type": "note",
-                "length": 1,
-                "tones": ["g3"],
-                "ornaments": [false],
-                "articulation": [false],
-                "attachedDynamics": [false]
-              },
-              {
-                "type": "note",
-                "length": 1,
-                "tones": ["a4"],
-                "ornaments": [false],
-                "articulation": [false],
-                "attachedDynamics": [false]
-              },
-              {
-                "type": "note",
-                "length": 1,
-                "tones": ["b4"],
-                "ornaments": [false],
-                "articulation": [false],
-                "attachedDynamics": [false]
-              },
-              {
-                "type": "note",
-                "length": 1,
-                "tones": ["c4"],
-                "ornaments": [false],
-                "articulation": [false],
-                "attachedDynamics": [false]
-              }
+              [
+                {
+                  "endBar": "single",
+                  "key": {
+                    "change": false,
+                    "newKey": "default"
+                  }
+                },
+                {
+                  "type": "note",
+                  "length": 1,
+                  "tones": ["c3"],
+                  "ornaments": [false],
+                  "articulation": [false],
+                  "attachedDynamics": [false]
+                },
+                {
+                  "type": "note",
+                  "length": 1,
+                  "tones": ["d3"],
+                  "ornaments": [false],
+                  "articulation": [false],
+                  "attachedDynamics": [false]
+                },
+                {
+                  "type": "note",
+                  "length": 1,
+                  "tones": ["e3"],
+                  "ornaments": [false],
+                  "articulation": [false],
+                  "attachedDynamics": [false]
+                },
+                {
+                  "type": "note",
+                  "length": 1,
+                  "tones": ["f3"],
+                  "ornaments": [false],
+                  "articulation": [false],
+                  "attachedDynamics": [false]
+                }
+              ],
+              [
+                {
+                  "endBar": "end",
+                  "key": {
+                    "change": false,
+                    "newKey": "default"
+                  }
+                },
+                {
+                  "type": "note",
+                  "length": 1,
+                  "tones": ["g3"],
+                  "ornaments": [false],
+                  "articulation": [false],
+                  "attachedDynamics": [false]
+                },
+                {
+                  "type": "note",
+                  "length": 1,
+                  "tones": ["a4"],
+                  "ornaments": [false],
+                  "articulation": [false],
+                  "attachedDynamics": [false]
+                },
+                {
+                  "type": "note",
+                  "length": 1,
+                  "tones": ["b4"],
+                  "ornaments": [false],
+                  "articulation": [false],
+                  "attachedDynamics": [false]
+                },
+                {
+                  "type": "note",
+                  "length": 1,
+                  "tones": ["c4"],
+                  "ornaments": [false],
+                  "articulation": [false],
+                  "attachedDynamics": [false]
+                }
+              ]
             ]
           }
         ]
